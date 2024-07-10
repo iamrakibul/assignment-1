@@ -183,4 +183,49 @@ align-items: center;}
     border-radius: 16px;
     padding: 35px;
 }
+
+.last-main{
+    width: 1020px;
+    height: 280px;
+    margin: 49px 220px 80px;
+    color: white;
+    text-align: center;
+    padding: 64px;
+    border-radius: 16px;
+    
+    background-image: url(./assets/handshake.jpg);
+                
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    
+   
+    }
+
+    .need{
+        margin-bottom: 18px;
+        font-size: 32;
+        font-weight: bold;
+        
+    }
+    .need-description{
+        font-size: 16;
+        font-weight: normal;
+        margin: 20px 267px 50px;
+        
+    }
+    .input{
+        width: 548px;
+        height: 57px;
+        border-radius: 8px;
+        font-size: 16;
+        font-weight: normal;
+    }
+    .submit{
+        width: 120px;
+        height: 57px;
+        border-radius: 8px;
+        font-size: 20;
+        font-weight: 600;
+    }
    
